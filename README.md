@@ -14,27 +14,19 @@ My legal and management positions bring a fresh prospective to techincal and lea
 
 ### Front End
 
-`HTML` `CSS` `LESS` `JavaScript` `Typescript` `React` `React Native` `Redux` `Axios` `JQuery` `Bootstrap` `Styled Components`
+`HTML` `CSS` `SASS` `JavaScript` `Typescript` `React` `Redux` `Axios` `jQuery` `Bootstrap` `Styled Components`
 
 ### Back End
 
-`Node.js` `Nodemon` `Express` `Knex` `SQLite` `PostgreSQL` `JSON Web Tokens` `Sessions & Cookies`
-
-### Computer Science
-
-`Python` `C` `Algorithms` `Data Structures` `Graphs` `Computer Architecture`
+`Node.js` `Nodemon` `Express` `JSON`
 
 ### Tools & Deployment
 
-`CLI` `Git` `Github` `NPM` `Yarn` `Netlify` `Heroku`
-
-### Testing
-
-`Jest` `Supertest` `Snapshot Testing`
+`Git` `Github` `NPM` `Heroku`
 
 ### Office
 
-`Microsoft Office` `Word` `Excel` `PowerPoint` `Adobe`
+`Word` `Excel` `PowerPoint` `Adobe Photoshop`
 
 ## Portfolio Template
 
