@@ -21,7 +21,3 @@ Advanced knowledge of Adobe Photoshop with 12+ years of experience.
 ### Office
 
 `Word` `Excel` `PowerPoint` `Adobe Photoshop`
-
-## Portfolio Template
-
-My portfolio was built using a W3Layouts template. More information as to W3Layouts can be viewed in the [w3layouts-License.txt](w3layouts-License.txt) file or at [http://w3layouts.com](http://w3layouts.com).
